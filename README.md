@@ -1,0 +1,1 @@
+This is Noah Jarzab's resume and general information. Can be installed as an NPM dependency to access the information.

@@ -1,0 +1,14 @@
+{
+  "name": "noah-j-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noah-j",
+  "license": "ISC",
+  "bin": {
+    "display-resume": "./index.js"
+  }
+}
